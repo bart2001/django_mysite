@@ -1,1 +1,1 @@
-# django_polls
+# django_mysite
